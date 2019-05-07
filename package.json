@@ -1,0 +1,35 @@
+{
+  "name": "karma-nej2",
+  "version": "1.1.0",
+  "description": "karma runner for nej framework",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mammut-FE/karma-nej.git"
+  },
+  "keywords": [
+    "karma-runner",
+    "karma",
+    "nej"
+  ],
+  "author": "leeluolee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mammut-FE/karma-nej/issues"
+  },
+  "homepage": "https://github.com/Mammut-FE/karma-nej#readme",
+  "dependencies": {
+    "glob": "^6.0.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "jest": {
+    "testPathIgnorePatterns": [
+      "/demo/"
+    ]
+  }
+}
