@@ -1,7 +1,6 @@
 # nej 的 karma 插件
 
-[![Build Status](https://travis-ci.org/Mammut-FE/karma-nej.svg?branch=master)](https://travis-ci.org/Mammut-FE/karma-nej)
-
+[![Build Status](https://travis-ci.com/Mammut-FE/karma-nej.svg?branch=master)](https://travis-ci.com/Mammut-FE/karma-nej)
 
 > 用于 nej 项目的 karma-runner
 
