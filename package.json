@@ -1,6 +1,6 @@
 {
   "name": "karma-nej2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "karma runner for nej framework",
   "main": "lib/index.js",
   "scripts": {
